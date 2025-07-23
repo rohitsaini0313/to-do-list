@@ -1,3 +1,3 @@
 ## Contributors
-- [Your GitHub Username]
-- [Your Friend's GitHub Username]
+- [Ayush5530]
+- [Rohit0313]
